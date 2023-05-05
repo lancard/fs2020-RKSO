@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/a7lmu-airport-rkso-osanairbase/ContentHistory.json",
+      "size": 154,
+      "date": 133169856391807759
+    },
+    {
+      "path": "ContentInfo/a7lmu-airport-rkso-osanairbase/Thumbnail.jpg",
+      "size": 5446,
+      "date": 133083962806603801
+    },
+    {
+      "path": "scenery/a7lmu/RKSO.bgl",
+      "size": 238676,
+      "date": 133169856391737923
+    },
+    {
+      "path": "scenery/airport-rkso-osanairbase/ModelLib/ModelLib.BGL",
+      "size": 56,
+      "date": 133169737583933057
+    }
+  ]
+}

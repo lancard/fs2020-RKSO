@@ -1,0 +1,10 @@
+{
+  "package-name": "a7lmu-airport-rkso-osanairbase",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKSO",
+      "revision": 1
+    }
+  ]
+}
